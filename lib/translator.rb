@@ -11,6 +11,7 @@ end
 def get_english_meaning
   # code goes here
 end
+
 test = {
   :angel => ["O:)", ":("],
   :angry => [">:(", ":)"]
@@ -30,3 +31,4 @@ def translator(test)
 end
 
 translator(test)
+end
