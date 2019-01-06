@@ -31,4 +31,3 @@ def translator(test)
 end
 
 translator(test)
-end
